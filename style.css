@@ -15,40 +15,23 @@ header {
   text-align: center;
   padding: 2rem 1rem;
   border-bottom: 3px solid #f29ca3;
-  
 }
-.Canecas {
-  background-color: #fff8f5;
-   color: #af6b78;
-  margin: 2rem auto;
-  padding: 2rem;
-  width: 80%;
-  max-width: 600px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+.card-body{
+ background-color:#fcdde3;
+  width: 58%;
+  max-width: 800px;
+  border-radius: 26px;
   text-align: center;
+  border-bottom: 3px solid #f29ca3;
 }
-.Chaveiros{
-  background-color: #fff8f5;
-   color: #af6b78;
-  margin: 2rem auto;
-  padding: 2rem;
-  width: 80%;
-  max-width: 600px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-.Caixinhas {
-  background-color: #fff8f5;
-   color: #af6b78;
-  margin: 2rem auto;
-  padding: 2rem;
-  width: 80%;
-  max-width: 600px;
-  border-radius: 12px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-  text-align: center;
+.minha-cor-btn {
+  background-color: #ff9daf;
+  color: #331f23;
+  border: none; 
+  padding: 5px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  display: inline-block;
 }
 footer {
   background-color: #ffccd5;
