@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", sans-serif;
+  }
+  body {
+    background-color: #f8c7b2;
+    color: #333;
+    line-height: 1.6;
+  }
+  header {
+    background-color: #ffccd5;
+    color: #661827;
+    text-align: center;
+    padding: 2rem 1rem;
+    border-bottom: 3px solid #f29ca3;
+  }
+  .card-body{
+   background-color:#fcdde3;
+    width: 58%;
+    max-width: 800px;
+    border-radius: 26px;
+    text-align: center;
+    border-bottom: 3px solid #f29ca3;
+  }
+  .minha-cor-btn {
+    background-color: #ff9daf;
+    color: #331f23;
+    border: none; 
+    padding: 5px 10px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  footer {
+    background-color: #ffccd5;
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    color: #5a2a2a;
+    margin-top: 2rem;
+    border-top: 3px solid #f29ca3;
+  }
+  
